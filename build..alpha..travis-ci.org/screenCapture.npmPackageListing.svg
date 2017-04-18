@@ -1,0 +1,23 @@
+<svg height="318" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="318" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-18 05:22:07 +0000    29721 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 05:22:07 +0000     1786 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 05:22:07 +0000     3507 bytes  Gruntfile.js</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 05:22:07 +0000     1078 bytes  LICENSE</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 05:22:07 +0000     6906 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 05:22:07 +0000     2750 bytes  package.json</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 05:22:07 +0000    12044 bytes  tasks/grunt-release.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-18 05:22:07 +0000       24 bytes  test/expected/CHANGELOG.md</tspan>
+<tspan x="10" y="154">  8.  2017-04-18 05:22:07 +0000       63 bytes  test/expected/bower-absolute.json</tspan>
+<tspan x="10" y="170">  9.  2017-04-18 05:22:07 +0000       64 bytes  test/expected/bower.json</tspan>
+<tspan x="10" y="186"> 10.  2017-04-18 05:22:07 +0000       57 bytes  test/expected/component-major.json</tspan>
+<tspan x="10" y="202"> 11.  2017-04-18 05:22:07 +0000       57 bytes  test/expected/component-minor.json</tspan>
+<tspan x="10" y="218"> 12.  2017-04-18 05:22:07 +0000       58 bytes  test/expected/component-patch.json</tspan>
+<tspan x="10" y="234"> 13.  2017-04-18 05:22:07 +0000       58 bytes  test/expected/component.json</tspan>
+<tspan x="10" y="250"> 14.  2017-04-18 05:22:07 +0000       13 bytes  test/fixtures/CHANGELOG.md</tspan>
+<tspan x="10" y="266"> 15.  2017-04-18 05:22:07 +0000      108 bytes  test/fixtures/bower.json</tspan>
+<tspan x="10" y="282"> 16.  2017-04-18 05:22:07 +0000       58 bytes  test/fixtures/component.json</tspan>
+<tspan x="10" y="298"> 17.  2017-04-18 05:22:07 +0000     1090 bytes  test/release_test.js</tspan>
+</text>
+</svg>
